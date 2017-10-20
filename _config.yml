@@ -1,12 +1,12 @@
 # Site Settings
 title: Start Jekyll
-email: taniarascia@gmail.com
+email: arvind@cheenu.net
 description: >
   A guide to getting started with Jekyll.
 baseurl: "/startjekyll"
-url: "http://taniarascia.github.io"
-twitter_username: taniarascia
-github_username:  taniarascia
+url: "http://thebicameralbit.github.io"
+twitter_username: arvindcheenu12
+github_username:  arvindcheenu
 # Build Settings
 sass:
   sass_dir: _sass
